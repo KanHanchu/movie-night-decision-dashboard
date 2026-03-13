@@ -6,7 +6,7 @@ SQL + Power BI analysis of an IMDB dataset (~5000 movies) designed to help users
 
 - SQL Server
 - T-SQL
-- Power BI (dashboard in progress)
+- Power BI 
 
 ## Project Goals
 
@@ -30,6 +30,20 @@ SQL + Power BI analysis of an IMDB dataset (~5000 movies) designed to help users
 - Aggregate functions
 - Window functions (ROW_NUMBER)
 - Exploratory data analysis
+# Movie Night Decision Dashboard
 
-## Next Steps
-Create a Power BI dashboard for interactive movie exploration.
+An interactive **Power BI dashboard** designed to help users quickly choose a movie to watch.
+
+## Features
+
+- Movie Finder interface
+- Hidden Gems filter
+- IMDb integration
+- Genre and runtime filtering
+- Movie analytics dashboard
+
+## Tech Stack
+
+SQL  
+Power BI  
+DAX  
